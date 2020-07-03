@@ -1,0 +1,7 @@
+---
+spring:
+  profiles: default
+  datasource:
+    url: jdbc:postgresql://localhost:5432/todo
+    username: postgres
+    password: ENC(v3/HG/miZJWiKderBIl+2UTXSEradnCJ+JRMim55xx/53FRQfFld8OnWPzEQiu7T)
